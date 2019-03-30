@@ -1,0 +1,4 @@
+first player: Player 1
+color player1: White
+color player2: Purple
+board size: 8

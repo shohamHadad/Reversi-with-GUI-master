@@ -1,0 +1,11 @@
+.root {
+    -fx-background-image: url("settingbackground.jpg")
+}
+
+.button {
+    -fx-alignment: center;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(rgba(114, 110, 122, 0.92), #190d19);
+}
